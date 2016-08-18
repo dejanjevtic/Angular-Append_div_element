@@ -1,0 +1,23 @@
+#header{
+	background-color: blue;
+	color: white;
+	text-align:center;
+	padding:30px;
+	font-size:20px;
+}
+
+.elementA{
+	
+	background-color: orangered;
+	color:white;
+	padding:10px;
+	margin-top:5px;
+	float:none;
+	text-align:center;
+	width:100%;
+}
+
+#message{
+	background-color:goldenrod;
+	padding:10px;
+}
